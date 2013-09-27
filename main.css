@@ -1,0 +1,70 @@
+body {
+	background-color:66FF66;
+	background: url('wide_rectangles.png');	
+}
+
+.navigation { 
+	font-family: "Arial";
+	text-align:center;
+	font-size: 30px;
+	height:50px;
+	width:800px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.title {
+	text-align: center;
+	font-size: 50px;
+	height: 80px;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+		
+}
+
+
+.subtitle {
+	font-family: "Arial";
+	text-align: center;
+	margin-left:auto;
+	margin-right: auto;
+	height: 40px;
+	width: 720px;
+	margin-top: 10px;
+}
+
+.main {
+	font-family: "Arial";
+        text-align: center;
+        margin-left:auto;
+        margin-right: auto;
+        height: 500px;
+        width: 800px;
+        margin-top: 10px;
+}
+
+.footer {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	position:relative;
+	margin-top: 100px;
+}
+
+.awesome{
+	background: #222 url(/images/alert-overlay.png) repeat-x;
+	display: inline-block;
+	padding: 5px 10px 6px;
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+	line-height: 1;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-box-shadow: 0 1px 3px #999;
+	-webkit-box-shadow: 0 1px 3px #999;
+	text-shadow: 0 -1px 1px #222;
+	border-bottom: 1px solid #222;
+	position: relative;
+	cursor: pointer;
+}
